@@ -1,6 +1,9 @@
-## Hi there 👋
+##PPS OBSERVATIONS
 <br>
-i am vikrant bhan
+this is my personal github for uploading all lab Observations 
+Name:vikrant Bhan
+Branch:CSM 
+Roll no :24011A666*
 
 <!--
 **vikrantiit24/vikrantiit24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
